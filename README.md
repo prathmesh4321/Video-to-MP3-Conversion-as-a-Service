@@ -2,7 +2,7 @@
 
 ## Project Description:
 
-**The application performs video-to-MP3 conversion and comes with features such as user authentication and notification services to deliver efficient and scalable multimedia processing. A microservices architecture with an API Gateway pattern is adopted and the services are deployed, scaled, and managed using Kubernetes. The microservices communicate with each other asynchronously using RabbitMQ. Additionally, a token-based authentication flow is adopted. The user data is stored in MySQL and the videos and output mp3s are stored in MongoDB.** 
+The application performs video-to-MP3 conversion and comes with features such as user authentication and notification services to deliver efficient and scalable multimedia processing. A microservices architecture with an API Gateway pattern is adopted and the services are deployed, scaled, and managed using Kubernetes. The microservices communicate with each other asynchronously using RabbitMQ. Additionally, a token-based authentication flow is adopted. The user data is stored in MySQL and the videos and output mp3s are stored in MongoDB.
 
 
 ## Architecture

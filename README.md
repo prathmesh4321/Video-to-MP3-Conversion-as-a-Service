@@ -2,7 +2,7 @@
 
 ## Project Description:
 
-**Developed a robust Video-to-MP3 Conversion application, employing cutting-edge technologies to deliver efficient and scalable multimedia processing.** 
+**Developed a robust Video-to-MP3 Conversion application with features such as user authentication and notification services to deliver efficient and scalable multimedia processing.** 
 
 
 ## Architecture

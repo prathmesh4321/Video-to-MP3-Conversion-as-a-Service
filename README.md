@@ -4,6 +4,8 @@
 
 **Developed a robust Video-to-MP3 Conversion as a Service application, employing cutting-edge technologies to deliver efficient and scalable multimedia processing.** 
 
+![Architecture](./img/Architecture.png)
+
 ## Key Achievements:
 
 **Microservice Architecture**: Orchestrated a microservice-based architecture, capitalizing on Kubernetes and Docker, to create a flexible and responsive system. This architecture allowed our application to dynamically scale and efficiently manage the processing of over 100 concurrent conversion requests in under a minute.
